@@ -13,7 +13,7 @@ The code in the corresponding folders enables ML training to enhance the resolut
 
 # Conda Environment
 Before using this code, all required packages must be installed.    
-For convenience, you may use the provided ```environment.yml``` file as follow:  
+For convenience, you may use the provided ```environment.yml``` file as follows:  
 1. Create a new environment from the .yml file:
 ```
 conda env create -f environment.yml
