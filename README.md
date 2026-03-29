@@ -8,6 +8,9 @@ The code enables ML training to enhance the resolution of segmented 3D micro-CT 
 ×16 for Berea (from 7 µm/voxel (a) to 0.44 µm/voxel (a′)),  
 ×16 for Parker (from 3 µm/voxel (b) to 0.19 µm/voxel (b′)),  
 ×32 for Kentucky (from 3 µm/voxel (c) to 94 nm/voxel (c′)).  
-![Results demonstration](GH_images/Results demonstration.jpg)
+
+![Results demonstration](GH_images/Results_demonstration.jpg)  
+
+
 
 
