@@ -11,6 +11,19 @@ The code in the corresponding folders enables ML training to enhance the resolut
 
 ![Results demonstration](GH_images/Results_demonstration.jpg)  
 
+# Conda Environment
+Before using this code, all required packages must be installed.    
+For convenience, you may use the provided ```environment.yml``` file as follow:  
+1. Create a new environment from the .yml file:
+```
+conda env create -f environment.yml
+```
+2. Activate the new environment once it’s created:
+```
+conda activate environment
+```
+
+
 
 
 
