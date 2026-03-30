@@ -4,7 +4,13 @@ This repository contains supplementary materials for the paper "Resolution-Drive
 We provide the full code, the training datasets, and the trained models for three examined sandstones: Berea, Parker, and Kentucky. 
 
 # The full code  
-For each rock, the training is provided separately. The full code for each sandstone can be found in the corresponding sample folder, under the <u>code</u> folder  
+For each rock, the training is provided separately. The full code for each sandstone can be found in the corresponding sample folder, under the "code" folder  
+
+# The training dataset  
+The training dataset for each sandstone can be found in the corresponding sample folder, in the "data.zip" archive. Don't forget to unzip it before running the code!  
+
+# The trained models  
+The trained models for each sandstone can be found in the corresponding sample folder, in the "progress.zip" archive. Don't forget to unzip it before running the code also!
 
 # Results demonstration
 The code in the corresponding folders enables ML training to enhance the resolution of segmented 3D micro-CT images for three sandstones:  
